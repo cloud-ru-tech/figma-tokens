@@ -49,9 +49,9 @@ jobs:
           git config --global user.name "exapmle-user"
           npm config --global set //registry.npmjs.org/:_authToken=${{ secrets.CI_NPM_TOKEN }}
           npm ci
-          npm run build:all
-          npm run prepareForPublic
           npm run prepack
+          npm run prepareForPublic
+          npm run build:all
           npm publish
 
         shell: bash
