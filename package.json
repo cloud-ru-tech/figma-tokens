@@ -1,12 +1,7 @@
 {
-  "name": "@snack-uikit/figma-tokens",
+  "name": "@enkeess/figma-tokens",
   "version": "0.0.2",
-  "description": "Figma Tokens for Cloud Design System",
-  "homepage": "https://github.com/cloud-ru-tech/figma-tokens",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/cloud-ru-tech/figma-tokens.git"
-  },
+  "description": "Figma Tokens for Custom Brand",
   "license": "Apache-2.0",
   "scripts": {
     "build:all": "ts-node scripts/buildAll",
@@ -34,5 +29,8 @@
     "shelljs": "0.8.5",
     "style-dictionary": "3.8.0",
     "token-transformer": "0.0.33"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
