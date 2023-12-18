@@ -28,9 +28,10 @@ jobs:
           npm config --global set //registry.npmjs.org/:_authToken=${{ secrets.CI_NPM_TOKEN }}
           npm ci
           SHORT_SHA=$(echo $GITHUB_SHA | cut -c1-7)
+          npm run build:all
           npm run prepack
           npm run prepareForPublic
-          npm run build:all
+          git status
           git add . && git commit -m 'chore: patch package for preview'
           npm version --no-git-tab-version prerelease --preid $GITHUB_SHA
           npm publish --tag preview

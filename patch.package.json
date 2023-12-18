@@ -1,6 +1,7 @@
 {
   "name": "@enkeess/figma-tokens",
   "description": "Figma Tokens for Custom Brand",
+  "version": "0.0.2",
   "homepage": "https://github.com/NikNamme/figma-tokens/tree/brand",
   "repository": {
     "type": "git",
