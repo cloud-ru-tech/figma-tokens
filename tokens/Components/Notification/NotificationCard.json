@@ -18,13 +18,37 @@
         "horizontalPadding": "{Space.NotificationPanel.Card.PaddingHorizontal}",
         "verticalPadding": "{Space.NotificationPanel.Card.PaddingVertical}",
         "itemSpacing": "{Space.NotificationPanel.Card.Gap}",
-        "borderWidthBottom": "{BorderWidth.NotificationPanel.Card}"
+        "borderWidth": "{BorderWidth.NotificationPanel.Card}",
+        "borderRadius": "{Radius.NotificationPanel.Card}"
       },
       "type": "composition"
     },
     "TitleLayout": {
       "value": {
         "itemSpacing": "{Space.NotificationPanel.Card.TitleLayout.Gap}"
+      },
+      "type": "composition"
+    }
+  },
+  "NotificationCardStack": {
+    "Header": {
+      "Container": {
+        "value": {
+          "itemSpacing": "{Space.NotificationPanel.CardStack.Header.Gap}",
+          "paddingBottom": "{Space.NotificationPanel.CardStack.Header.PaddingBottom}"
+        },
+        "type": "composition"
+      },
+      "Right": {
+        "value": {
+          "itemSpacing": "{Space.NotificationPanel.CardStack.Header.Gap}"
+        },
+        "type": "composition"
+      }
+    },
+    "Container": {
+      "value": {
+        "itemSpacing": "{Space.NotificationPanel.CardStack.Container}"
       },
       "type": "composition"
     }

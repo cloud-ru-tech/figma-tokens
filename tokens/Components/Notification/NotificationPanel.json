@@ -8,13 +8,6 @@
       },
       "type": "composition"
     },
-    "ReadedDivider": {
-      "value": {
-        "height": "{Size.NotificationPanel.ReadedDivider}",
-        "borderWidthBottom": "{BorderWidth.NotificationPanel.Container}"
-      },
-      "type": "composition"
-    },
     "Panel": {
       "value": {
         "borderRadius": "{Radius.NotificationPanel.Panel}",
@@ -61,6 +54,15 @@
       "Container": {
         "value": {
           "spacing": "{Space.NotificationPanel.BodyInfo.Padding}"
+        },
+        "type": "composition"
+      }
+    },
+    "Body": {
+      "Container": {
+        "value": {
+          "verticalPadding": "{Space.NotificationPanel.Body.VerticalPadding}",
+          "horizontalPadding": "{Space.NotificationPanel.Body.HorizontalPadding}"
         },
         "type": "composition"
       }
