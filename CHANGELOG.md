@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [19.0.2](https://git.sbercloud.tech/sbercloud-ui/tokens-design-system/figma-tokens/compare/npm19.0.1...npm19.0.2) (2026-01-26)
+
+
+### Bug Fixes
+
+* **FF-7936:** nothing changed, just trigger new patch version release ([2f52ba0](https://git.sbercloud.tech/sbercloud-ui/tokens-design-system/figma-tokens/commit/2f52ba0ef9761f4d6b163d4d8a87cd15a8e46a16))
+
 ## [19.0.1](https://git.sbercloud.tech/sbercloud-ui/tokens-design-system/figma-tokens/compare/npm19.0.0...npm19.0.1) (2026-01-12)
 
 
