@@ -1212,6 +1212,12 @@
           "value": "{DimensionTheme.General.4px}",
           "type": "sizing"
         }
+      },
+      "Date": {
+        "Height": {
+          "value": "{DimensionTheme.General.24px} - {DimensionTheme.General.4px}",
+          "type": "sizing"
+        }
       }
     },
     "Toolbar": {
@@ -3646,6 +3652,12 @@
         },
         "VerticalPadding": {
           "value": "{DimensionTheme.General.16px}",
+          "type": "spacing"
+        }
+      },
+      "Date": {
+        "HorizontalPadding": {
+          "value": "{DimensionTheme.General.8px}",
           "type": "spacing"
         }
       }

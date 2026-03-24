@@ -66,6 +66,16 @@
         },
         "type": "composition"
       }
+    },
+    "Date": {
+      "Container": {
+        "value": {
+          "horizontalPadding": "{Space.NotificationPanel.Date.HorizontalPadding}",
+          "height": "{Size.NotificationPanel.Date.Height}",
+          "borderRadius": "{Radius.Chips.M}"
+        },
+        "type": "composition"
+      }
     }
   }
 }
