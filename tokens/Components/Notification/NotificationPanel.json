@@ -53,7 +53,8 @@
     "BodyInfo": {
       "Container": {
         "value": {
-          "spacing": "{Space.NotificationPanel.BodyInfo.Padding}"
+          "spacing": "{Space.NotificationPanel.BodyInfo.Padding}",
+          "height": "{Size.NotificationPanel.BodyInfo.Container}"
         },
         "type": "composition"
       }

@@ -1218,6 +1218,12 @@
           "value": "{DimensionTheme.General.24px} - {DimensionTheme.General.4px}",
           "type": "sizing"
         }
+      },
+      "BodyInfo": {
+        "Container": {
+          "value": "{DimensionTheme.General.64px} * 5",
+          "type": "sizing"
+        }
       }
     },
     "Toolbar": {
