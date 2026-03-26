@@ -1221,7 +1221,7 @@
       },
       "BodyInfo": {
         "Container": {
-          "value": "{DimensionTheme.General.64px} * 5",
+          "value": "({DimensionTheme.General.64px} * 4) + ( {DimensionTheme.General.56px}  + {DimensionTheme.General.4px} )",
           "type": "sizing"
         }
       }
