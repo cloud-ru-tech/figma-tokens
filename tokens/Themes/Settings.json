@@ -75,19 +75,19 @@
       },
       "MininalWidth": {
         "Xs": {
-          "value": "{Size.Button.Xs} * 3",
+          "value": "{Size.Button.Xs} * 2",
           "type": "sizing"
         },
         "S": {
-          "value": "{Size.Button.S} * 3",
+          "value": "{Size.Button.S} * 2",
           "type": "sizing"
         },
         "M": {
-          "value": "{Size.Button.M} * 3",
+          "value": "{Size.Button.M} * 2",
           "type": "sizing"
         },
         "L": {
-          "value": "{Size.Button.L} * 3",
+          "value": "{Size.Button.L} * 2",
           "type": "sizing"
         }
       }

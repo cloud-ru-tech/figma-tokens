@@ -278,19 +278,19 @@
     "FooterElements": {
       "S": {
         "value": {
-          "itemSpacing": "{Space.Calendar.FooterElements.S}"
+          "itemSpacing": "{DimensionTheme.General.4px}"
         },
         "type": "composition"
       },
       "M": {
         "value": {
-          "itemSpacing": "{Space.Calendar.FooterElements.M}"
+          "itemSpacing": "{Dimension.050m}"
         },
         "type": "composition"
       },
       "L": {
         "value": {
-          "itemSpacing": "{Space.Calendar.FooterElements.L}"
+          "itemSpacing": "{Dimension.050m}"
         },
         "type": "composition"
       }
