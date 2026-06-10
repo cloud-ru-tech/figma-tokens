@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [19.0.5](https://git.sbercloud.tech/sbercloud-ui/tokens-design-system/figma-tokens/compare/npm19.0.4...npm19.0.5) (2026-06-10)
+
+
+### Bug Fixes
+
+* **PDS-3606:** change Button.MininalWidth and Calendar.FooterElements values ([28ab8a9](https://git.sbercloud.tech/sbercloud-ui/tokens-design-system/figma-tokens/commit/28ab8a941cec12e4428a83d994aa27c7fe960843))
+* **PDS-3606:** sec scan ([f0c04f6](https://git.sbercloud.tech/sbercloud-ui/tokens-design-system/figma-tokens/commit/f0c04f65dc8dbe70c9527c700f940275e2de9bc0))
+
 ## [19.0.4](https://git.sbercloud.tech/sbercloud-ui/tokens-design-system/figma-tokens/compare/npm19.0.3...npm19.0.4) (2026-03-26)
 
 
